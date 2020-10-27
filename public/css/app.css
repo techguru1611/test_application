@@ -1,0 +1,7 @@
+.subject-info-box-1, .subject-info-box-2 { float: left; width: 20%; }
+.subject-info-arrows { float: left; width: 5%; } 
+.selected-items{ padding-left:20px; color:black; font-weight: bold; }
+.add-item-txt{width:250px;height:30px;}
+.my-err{margin-bottom:55px;}
+.main-text{text-align:left;}
+.form-control { width:90%; }
